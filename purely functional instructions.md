@@ -7,7 +7,7 @@
 0. ~~1989 &emsp;&emsp;&emsp;&ensp; [SequenceL](https://en.wikipedia.org/wiki/SequenceL)~~ @ [$2,499/YEAR](https://texasmulticore.com/products/get-sequencel/) !!! WHO ARE [THESE](https://rosettacode.org/wiki/Category:SequenceL) PEOPLE ?!?
 0. 1990 &emsp;&emsp;&emsp;&ensp; [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29)
 0. 1992 &emsp;&emsp;&emsp;&ensp; [Charity](https://en.wikipedia.org/wiki/Charity_%28programming_language%29)
-0. 1995 &emsp;&emsp;&emsp;&ensp; [Mercury](https://en.wikipedia.org/wiki/Mercury_%28programming_language%29) [🖖](https://www.informatik.uni-kiel.de/~mh/FLP/implementations.html)
+0. [1995-07-18](http://www.mercurylang.org/news.html) &ensp; [Mercury](https://en.wikipedia.org/wiki/Mercury_%28programming_language%29) [🖖](https://www.informatik.uni-kiel.de/~mh/FLP/implementations.html) (∨ [1993-10-10](https://github.com/Mercury-Language/mercury/graphs/contributors?from=1993-10-10&to=2016-11-23&type=c))
 0. [1995](https://www.informatik.uni-kiel.de/~mh/publications/papers/index.html#Year1995)-[??](http://www-ps.informatik.uni-kiel.de/currywiki/research/papers)-[??](http://www.informatik.uni-kiel.de/~curry/reports.html) &ensp; [Curry](https://en.wikipedia.org/wiki/Curry_%28programming_language%29) [🖖](https://www.informatik.uni-kiel.de/~mh/FLP/implementations.html)
 0. 2001 &emsp;&emsp;&emsp;&ensp; [Joy](https://en.wikipedia.org/wiki/Joy_%28programming_language%29)
 0. 2007 &emsp;&emsp;&emsp;&ensp; [Agda](https://en.wikipedia.org/wiki/Agda_%28programming_language%29)
