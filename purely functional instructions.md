@@ -5,7 +5,7 @@
 0. 1987 &emsp;&emsp;&emsp;&ensp; [Clean](https://en.wikipedia.org/wiki/Clean_%28programming_language%29) &emsp;@ [¿source?](http://clean.cs.ru.nl/Download_Clean) ... read the fine print
 0. 1989-05-01 &ensp; [Coq](https://en.wikipedia.org/wiki/Coq) ([sourced](https://coq.inria.fr/download))
 0. ~~1989 &emsp;&emsp;&emsp;&ensp; [SequenceL](https://en.wikipedia.org/wiki/SequenceL)~~ @ [$2,499/YEAR](https://texasmulticore.com/products/get-sequencel/) !!! WHO ARE [THESE](https://rosettacode.org/wiki/Category:SequenceL) PEOPLE ?!?
-0. 1990 &emsp;&emsp;&emsp;&ensp; [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29)
+0. 1990 &emsp;&emsp;&emsp;&ensp; [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29) ([src](http://downloads.haskell.org/~ghc/) & [man](https://ghc.haskell.org/trac/ghc/wiki/Building))
 0. 1992 &emsp;&emsp;&emsp;&ensp; [Charity](https://en.wikipedia.org/wiki/Charity_%28programming_language%29)
 0. [1995-07-18](http://www.mercurylang.org/news.html) &ensp; [Mercury](https://en.wikipedia.org/wiki/Mercury_%28programming_language%29) [🖖](https://www.informatik.uni-kiel.de/~mh/FLP/implementations.html) (∨ [1993-10-10](https://github.com/Mercury-Language/mercury/graphs/contributors?from=1993-10-10&to=2016-11-23&type=c))
 0. [1995](https://www.informatik.uni-kiel.de/~mh/publications/papers/index.html#Year1995)-[??](http://www-ps.informatik.uni-kiel.de/currywiki/research/papers)-[??](http://www.informatik.uni-kiel.de/~curry/reports.html) &ensp; [Curry](https://en.wikipedia.org/wiki/Curry_%28programming_language%29) [🖖](https://www.informatik.uni-kiel.de/~mh/FLP/implementations.html)
