@@ -2,7 +2,7 @@
 
 0. ~~1970s &emsp;&emsp;&emsp; [Hope](https://en.wikipedia.org/wiki/Hope_%28programming_language%29)~~&ensp;&ensp;&ensp;@ [UNSOURCED](https://web.archive.org/web/20130801064002/http://www.hopemachine.co.uk/) !!! WHO USES POTENTIALLY MALICIOUS BINARIES ?!?
 0. ~~1985 &emsp;&emsp;&emsp;&ensp; [Miranda](https://en.wikipedia.org/wiki/Miranda_%28programming_language%29)~~ @ [UNSOURCED](https://www.cs.kent.ac.uk/people/staff/dat/miranda/downloads/) !!! WHO USES POTENTIALLY MALICIOUS BINARIES ?!?
-0. 1987 &emsp;&emsp;&emsp;&ensp; [Clean](https://en.wikipedia.org/wiki/Clean_%28programming_language%29) &emsp;@ [¿source?](http://clean.cs.ru.nl/Download_Clean) ... read the fine print
+0. 1987 &emsp;&emsp;&emsp;&ensp; [Clean](https://en.wikipedia.org/wiki/Clean_%28programming_language%29) ([source](http://clean.cs.ru.nl/Download_Clean))
 0. 1989-05-01 &ensp; [Coq](https://en.wikipedia.org/wiki/Coq) ([sourced](https://coq.inria.fr/download))
 0. ~~1989 &emsp;&emsp;&emsp;&ensp; [SequenceL](https://en.wikipedia.org/wiki/SequenceL)~~ @ [$2,499/YEAR](https://texasmulticore.com/products/get-sequencel/) !!! WHO ARE [THESE](https://rosettacode.org/wiki/Category:SequenceL) PEOPLE ?!?
 0. 1990 &emsp;&emsp;&emsp;&ensp; [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29) ([src](http://downloads.haskell.org/~ghc/) & [man](https://ghc.haskell.org/trac/ghc/wiki/Building))
